@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Chenge_Queue_To_Pre-Indexing" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e351f301-8480-4e09-a852-37fee78ea863" weightsEnabled="false">
+    <weighted-embedded-action uid="9f00b0d7-2091-48d5-b3e9-c5a4668e39ea"/>
+    <weighted-embedded-action uid="9b4f31d8-6369-4248-9ac4-6c18c78d9a5f"/>
+    <weighted-embedded-action uid="d7e6395d-0cd2-4b8d-b7e2-84dcf38c3b2e"/>
+    <weighted-embedded-action uid="a1fde202-35be-4bfc-927e-213b62114299"/>
+    <weighted-embedded-action uid="f930f08b-f201-48c8-8a7d-0384aae71d39"/>
+    <weighted-embedded-action uid="9458fa87-1e9c-4836-9bc3-8ec9f6b7323e"/>
+</basic-logical-action-container>

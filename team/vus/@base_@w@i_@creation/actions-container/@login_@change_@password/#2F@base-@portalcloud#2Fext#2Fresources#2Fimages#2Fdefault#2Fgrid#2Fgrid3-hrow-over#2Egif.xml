@@ -1,0 +1,83 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/Base-Portalcloud/ext/resources/images/default/grid/grid3-hrow-over.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/a4befe31-b378-4bde-a259-400d827bb941.zip"
+    slaProfileEnabled="false" thinkTime="16487"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a4befe31-b378-4bde-a259-400d827bb941">
+    <embedded-action>d0c08dda-cc12-4527-9936-013613f4764b</embedded-action>
+    <embedded-action>4344d0ee-a524-482b-9380-2d3e32487255</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a4befe31-b378-4bde-a259-400d827bb941.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/gif;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 14 May 2018 07:10:44 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Base-Portalcloud/ext/resources/images/default/grid/grid3-hrow-over.gif"
+    path="/Base-Portalcloud/ext/resources/images/default/grid/grid3-hrow-over.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/a4befe31-b378-4bde-a259-400d827bb941.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="10.137.48.11"
+    slaProfileEnabled="false" uid="d0c08dda-cc12-4527-9936-013613f4764b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d0c08dda-cc12-4527-9936-013613f4764b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d0c08dda-cc12-4527-9936-013613f4764b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/ext/resources/css/ext-all-custom.css"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Sun, 01 Jul 2018 05:35:22 GMT&#xd;
+Cache-Control: public, max-age=2592000&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:35:22 GMT&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 14 May 2018 07:10:44 GMT&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: image/gif;charset=UTF-8&#xd;
+Content-Length: 823</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Mon, 14 May 2018 07:10:43 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Base-Portalcloud/ext/resources/images/default/grid/grid3-hd-btn.gif"
+    path="/Base-Portalcloud/ext/resources/images/default/grid/grid3-hd-btn.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/a4befe31-b378-4bde-a259-400d827bb941.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="10.137.48.11"
+    slaProfileEnabled="false" uid="4344d0ee-a524-482b-9380-2d3e32487255" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4344d0ee-a524-482b-9380-2d3e32487255.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4344d0ee-a524-482b-9380-2d3e32487255.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/ext/resources/css/ext-all-custom.css"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Sun, 01 Jul 2018 05:35:22 GMT&#xd;
+Cache-Control: public, max-age=2592000&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:35:22 GMT&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 14 May 2018 07:10:43 GMT&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: image/gif;charset=UTF-8&#xd;
+Content-Length: 1229</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

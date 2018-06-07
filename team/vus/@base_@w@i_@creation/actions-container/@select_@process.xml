@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select_Process" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="35904628-d852-4e75-8160-3108e6a16a4a" weightsEnabled="false">
+    <weighted-embedded-action uid="20d75460-fa7d-467e-8d0a-be12034b0e15"/>
+    <weighted-embedded-action uid="57224e70-e7f1-436a-9959-6315918507ca"/>
+    <weighted-embedded-action uid="6eff8026-7b43-41ba-8d65-7a51e7a04417"/>
+</basic-logical-action-container>

@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/removeSessionAttributesOFUserSearch.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/4c0efb66-dd3e-40af-bc2c-85fdb3e53121.zip"
+    slaProfileEnabled="false" thinkTime="3"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4c0efb66-dd3e-40af-bc2c-85fdb3e53121">
+    <embedded-action>d6ad56c1-5890-49fb-9c19-f38a322f5974</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_4c0efb66-dd3e-40af-bc2c-85fdb3e53121.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Base-Portalcloud/removeSessionAttributesOFUserSearch.jscript"
+    path="/Base-Portalcloud/removeSessionAttributesOFUserSearch.jscript"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/4c0efb66-dd3e-40af-bc2c-85fdb3e53121.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="10.137.48.11"
+    slaProfileEnabled="false" uid="d6ad56c1-5890-49fb-9c19-f38a322f5974" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d6ad56c1-5890-49fb-9c19-f38a322f5974.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d6ad56c1-5890-49fb-9c19-f38a322f5974.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_dc"
+        recordRawValue="1527831302406" separator="="
+        value="1527831302406" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="ELOR" value="O3fpVh1c7VBfaLRGxw3kuw=="/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <header name="X-CSRF-TOKEN" value="${cor_csrf_token}"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:35:04 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

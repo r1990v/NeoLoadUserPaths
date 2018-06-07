@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=test_base_create_WI
+project.version=6.2
+project.original.version=6.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.4.0
+project.id=dc68fe0d-23bf-44cf-95c4-2e62dbcfd311
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=r1990v/NeoLoadUserPaths.git

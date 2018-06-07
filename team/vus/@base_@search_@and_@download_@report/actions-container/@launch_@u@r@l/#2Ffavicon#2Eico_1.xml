@@ -1,0 +1,36 @@
+<http-page executeResourcesDynamically="false" name="/favicon.ico_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@search_@and_@download_@report/%resources%/recorded-artifacts/75486ad7-2fd6-42a6-8228-f9222d7a333b.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="75486ad7-2fd6-42a6-8228-f9222d7a333b">
+    <embedded-action>a5a21525-6f36-4525-9848-fc2cc1e4ebd7</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d9d92960-01a6-4e10-b3d3-b1c1bb27ff68.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@search_@and_@download_@report/%resources%/recorded-artifacts/75486ad7-2fd6-42a6-8228-f9222d7a333b.zip"
+    recordedResponseCode="404" responseSize="74"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="a5a21525-6f36-4525-9848-fc2cc1e4ebd7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5d0c7538-3edf-4de8-9129-01b994db4123.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5d0c7538-3edf-4de8-9129-01b994db4123.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 404 Not Found&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=31536000; includeSubDomains&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Content-Length: 74&#xd;
+Content-Type: text/html&#xd;
+Date: Fri, 01 Jun 2018 08:23:04 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

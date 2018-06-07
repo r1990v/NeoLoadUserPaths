@@ -1,0 +1,55 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/checkReworkCountPopup.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/74c39d5c-4154-4ff9-8bd7-58d728f72ff7.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="74c39d5c-4154-4ff9-8bd7-58d728f72ff7">
+    <embedded-action>520d568e-33ce-48ea-9919-b80d5d9f3bbd</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_74c39d5c-4154-4ff9-8bd7-58d728f72ff7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Base-Portalcloud/checkReworkCountPopup.jscript"
+    path="/Base-Portalcloud/checkReworkCountPopup.jscript"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/74c39d5c-4154-4ff9-8bd7-58d728f72ff7.zip"
+    recordedResponseCode="200" responseSize="15"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="520d568e-33ce-48ea-9919-b80d5d9f3bbd" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[YWN0aW9uUGVyZm9ybWVkPUZvcmNlVG9SZXdvcmtTY3JlZW4mdGVtcGxhdGVOYW1lPUZvcmNlVG9SZXdvcms=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_520d568e-33ce-48ea-9919-b80d5d9f3bbd.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_520d568e-33ce-48ea-9919-b80d5d9f3bbd.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="actionPerformed" recordRawValue="ForceToReworkScreen"
+        separator="=" value="ForceToReworkScreen" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="templateName"
+        recordRawValue="ForceToRework" separator="="
+        value="ForceToRework" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="ELOR" value="O3fpVh1c7VBfaLRGxw3kuw=="/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <header name="X-CSRF-TOKEN" value="${cor_csrf_token}"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:35:03 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 15</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

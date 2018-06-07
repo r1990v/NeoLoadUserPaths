@@ -1,0 +1,101 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/createworkitem.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/3864e54d-1e62-4627-85e5-32b68ffca204.zip"
+    slaProfileEnabled="false" thinkTime="35140"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3864e54d-1e62-4627-85e5-32b68ffca204">
+    <embedded-action>89888fd3-d062-4951-be14-df277ac6e670</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3864e54d-1e62-4627-85e5-32b68ffca204.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Base-Portalcloud/createworkitem.jscript"
+    path="/Base-Portalcloud/createworkitem.jscript"
+    postCharset="iso-8859-1" postType="3"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/3864e54d-1e62-4627-85e5-32b68ffca204.zip"
+    recordedResponseCode="200" responseSize="49"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="89888fd3-d062-4951-be14-df277ac6e670" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImVwbGFuSWQiDQoNCjQNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjb25maWdUeXBlIg0KDQpNV0ktQ29uZmlndXJhdGlvbiANCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJsaUNvbmZpZ1R5cGUiDQoNCkxJTVdJLUNvbmZpZ3VyYXRpb24gDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iaXNMSVBsYW4iDQoNCkxJDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iQVBJbmRleGluZ0RldGFpbHNfX2ludkFtb3VudCINCg0KODI4Nw0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9IkFQSW5kZXhpbmdEZXRhaWxzX19pbmRleEludm9pY2VOdW1iZXIiDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImhpZGRlbkFQSW5kZXhpbmdEZXRhaWxzX19jb3VudHJ5Ig0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJBUEluZGV4aW5nRGV0YWlsc19fQVBJbmRleGluZ0RldGFpbHMwXzI1MF9BUF9CX0hfQ0hFQ0tCT1giDQoNCnRydWUNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJBUEluZGV4aW5nRGV0YWlsc19fdmVuZG9yTmFtZSINCg0KV0lQUk8NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJBUEluZGV4aW5nRGV0YWlsc19femlwQ29kZSINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iQVBJbmRleGluZ0RldGFpbHNfX3ZlbmRvckNvZGUiDQoNCldJUDgyODcNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJBUEluZGV4aW5nRGV0YWlsc19fam9iQ3JlYXRlRGF0ZSINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iQVBJbmRleGluZ0RldGFpbHNfX0FQSW5kZXhpbmdEZXRhaWxzMF8yNTBfQVBfQl9IX05VTTEiDQoNCg0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImhpZGRlbkFQSW5kZXhpbmdEZXRhaWxzX190eXBlT2ZJbnZvaWNlIg0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJoaWRkZW5BUEluZGV4aW5nRGV0YWlsc19fcmlzayINCg0KDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iQVBJbmRleGluZ0RldGFpbHNfX2RvY3VtZW50TnVtYmVyIg0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJwYXJlbnRUZW1wbGF0ZU5hbWUiDQoNCkFQSW5kZXhpbmdEZXRhaWxzDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iY2hpbGRUZW1wbGF0ZU5hbWUiDQoNCkxpbmVJdGVtRGV0YWlscw0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Im5hbWVzcGFjZSINCg0KY29tLndpcHJvLmJhc2UuYXINCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJ2ZXJzaW9uIg0KDQoxDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTcyNzUzODUxNzIxMTU0NTI4NDg2NzY3NTY2MDQNCkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0ibWFwcGluZ0ZpZWxkTmFtZSINCg0KbGluZUl0ZW0NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJzdXBwb3J0aW5nRG9jMSI7IGZpbGVuYW1lPSIiDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbQ0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJzdXBwb3J0aW5nRG9jMiI7IGZpbGVuYW1lPSIiDQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbQ0KDQoNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJJbmRleGluZ0RldGFpbHNfX3VzZXJDb21tZW50cyINCg0KV0lfQ29tbWVudHMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNA0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJkYXRhIg0KDQpbXQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9IlgtQ1NSRi1UT0tFTiINCg0KJHtDU1JGX1Rva2VufQ0KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03Mjc1Mzg1MTcyMTE1NDUyODQ4Njc2NzU2NjA0DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImNyZWF0ZVVzZXJDb21tZW50cyINCg0KV0lfQ29tbWVudHMNCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tNzI3NTM4NTE3MjExNTQ1Mjg0ODY3Njc1NjYwNC0tDQo=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_89888fd3-d062-4951-be14-df277ac6e670.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_89888fd3-d062-4951-be14-df277ac6e670.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="multipart/form-data; boundary=---------------------------7275385172115452848676756604"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:37:30 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 49</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-string name="eplanId" recordRawValue="" value="4" valueMode="USE_VALUE"/>
+        <multipart-string name="configType" recordRawValue=""
+            value="MWI-Configuration " valueMode="USE_VALUE"/>
+        <multipart-string name="liConfigType" recordRawValue=""
+            value="LIMWI-Configuration " valueMode="USE_VALUE"/>
+        <multipart-string name="isLIPlan" recordRawValue="" value="LI" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__invAmount"
+            recordRawValue="" value="8287" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__indexInvoiceNumber"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="hiddenAPIndexingDetails__country"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string
+            name="APIndexingDetails__APIndexingDetails0_250_AP_B_H_CHECKBOX"
+            recordRawValue="" value="true" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__vendorName"
+            recordRawValue="" value="WIPRO" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__zipCode"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__vendorCode"
+            recordRawValue="" value="WIP8287" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__jobCreateDate"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string
+            name="APIndexingDetails__APIndexingDetails0_250_AP_B_H_NUM1"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="hiddenAPIndexingDetails__typeOfInvoice"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="hiddenAPIndexingDetails__risk"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="APIndexingDetails__documentNumber"
+            recordRawValue="" value="" valueMode="USE_VALUE"/>
+        <multipart-string name="parentTemplateName" recordRawValue=""
+            value="APIndexingDetails" valueMode="USE_VALUE"/>
+        <multipart-string name="childTemplateName" recordRawValue=""
+            value="LineItemDetails" valueMode="USE_VALUE"/>
+        <multipart-string name="namespace" recordRawValue=""
+            value="com.wipro.base.ar" valueMode="USE_VALUE"/>
+        <multipart-string name="version" recordRawValue="" value="1" valueMode="USE_VALUE"/>
+        <multipart-string name="mappingFieldName" recordRawValue=""
+            value="lineItem" valueMode="USE_VALUE"/>
+        <multipart-file attachedFilename="recorded-resources/filepart"
+            contentType="application/octet-stream" filename="" name="supportingDoc1"/>
+        <multipart-file attachedFilename="recorded-resources/filepart.0"
+            contentType="application/octet-stream" filename="" name="supportingDoc2"/>
+        <multipart-string name="IndexingDetails__userComments"
+            recordRawValue="" value="WI_Comments" valueMode="USE_VALUE"/>
+        <multipart-string name="data" recordRawValue="" value="[]" valueMode="USE_VALUE"/>
+        <multipart-string name="X-CSRF-TOKEN" recordRawValue=""
+            value="${cor_csrf_token}" valueMode="USE_VALUE"/>
+        <multipart-string name="createUserComments" recordRawValue=""
+            value="WI_Comments" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>

@@ -1,0 +1,22 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Login" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="221a4e24-3b85-438f-982d-24782167d234" weightsEnabled="false">
+    <weighted-embedded-action uid="5f21d9f0-2c6b-4445-b555-dbd40fdca26e"/>
+    <weighted-embedded-action uid="6d0d4dba-f016-4942-b68a-e7463b478770"/>
+    <weighted-embedded-action uid="c7c1a713-91d0-4702-9fab-4ddf2caa5305"/>
+    <weighted-embedded-action uid="77cf8a2d-c13d-44a4-811d-3f9c944da383"/>
+    <weighted-embedded-action uid="c86d3191-2939-4977-acd1-df523e14026f"/>
+    <weighted-embedded-action uid="798ad3d8-3b1f-4a41-942d-9992e6f20790"/>
+    <weighted-embedded-action uid="1b137735-7b8a-4651-b057-a22f225c60ea"/>
+    <weighted-embedded-action uid="eae8911d-ca2a-4fb5-b29d-238dd37a6865"/>
+    <weighted-embedded-action uid="fda70ed2-2b1c-4da4-bff6-c29c157371a9"/>
+    <weighted-embedded-action uid="5f6434f0-0c69-423a-ab0b-09422833f2ae"/>
+    <weighted-embedded-action uid="edd9b70f-3912-49e1-b022-2fb8c1fa6282"/>
+    <weighted-embedded-action uid="a8d828f8-28ee-4008-9cbf-650502eb6255"/>
+    <weighted-embedded-action uid="054fbb7e-fa67-4229-9893-bdf153e5af40"/>
+    <weighted-embedded-action uid="7d657e64-2791-4ca1-a588-101fdb9f419e"/>
+    <weighted-embedded-action uid="c0373f5d-a826-4aaa-b051-1c9191da40a0"/>
+    <weighted-embedded-action uid="41046a87-9b19-4e46-a616-e0ae373c6419"/>
+    <weighted-embedded-action uid="e0e38b76-cf4f-48e9-a7ef-de9405947b62"/>
+</basic-logical-action-container>

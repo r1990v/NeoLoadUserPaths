@@ -1,0 +1,131 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/isLineLevelFeaturesEnabled.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/42f01de5-1ada-4fc7-8c67-cffd7bbd20ef.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="42f01de5-1ada-4fc7-8c67-cffd7bbd20ef">
+    <embedded-action>651dfaaa-4d05-4348-a835-399972246ea8</embedded-action>
+    <embedded-action>1e142f90-a6c9-418b-9dda-204e6ed22f80</embedded-action>
+    <embedded-action>3e078b59-c3fd-41df-9cf4-43e9283d89c1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_42f01de5-1ada-4fc7-8c67-cffd7bbd20ef.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/Base-Portalcloud/isLineLevelFeaturesEnabled.jscript"
+    path="/Base-Portalcloud/isLineLevelFeaturesEnabled.jscript"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/42f01de5-1ada-4fc7-8c67-cffd7bbd20ef.zip"
+    recordedResponseCode="200" responseSize="33"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="651dfaaa-4d05-4348-a835-399972246ea8" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[cGxhbklkPSZ0ZW1wbGF0ZT1TaGFyZWRUYXNrJnF1ZXVlTmFtZT1Bd2FpdGluZy1PQ1ItUmVzcG9uc2UlMjAmcGxhbk5hbWU9]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_651dfaaa-4d05-4348-a835-399972246ea8.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_651dfaaa-4d05-4348-a835-399972246ea8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="planId"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="template"
+        recordRawValue="SharedTask" separator="=" value="SharedTask" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="queueName"
+        recordRawValue="Awaiting-OCR-Response%20" separator="="
+        value="Awaiting-OCR-Response " valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="planName"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="ELOR" value="O3fpVh1c7VBfaLRGxw3kuw=="/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <header name="X-CSRF-TOKEN" value="${cor_csrf_token}"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:38:17 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 33</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif;charset=UTF-8"
+    enabled="false" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Base-Portalcloud/ext/resources/images/default/grid/row-check-sprite.gif"
+    path="/Base-Portalcloud/ext/resources/images/default/grid/row-check-sprite.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/42f01de5-1ada-4fc7-8c67-cffd7bbd20ef.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="10.137.48.11"
+    slaProfileEnabled="false" uid="1e142f90-a6c9-418b-9dda-204e6ed22f80" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1e142f90-a6c9-418b-9dda-204e6ed22f80.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1e142f90-a6c9-418b-9dda-204e6ed22f80.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/ext/resources/css/ext-all-custom.css"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Sun, 01 Jul 2018 05:38:17 GMT&#xd;
+Cache-Control: public, max-age=2592000&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:38:17 GMT&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 14 May 2018 07:10:44 GMT&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: image/gif;charset=UTF-8&#xd;
+Content-Length: 1083</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif;charset=UTF-8"
+    enabled="false" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Base-Portalcloud/ext/resources/images/default/dd/drop-no.gif"
+    path="/Base-Portalcloud/ext/resources/images/default/dd/drop-no.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/42f01de5-1ada-4fc7-8c67-cffd7bbd20ef.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="10.137.48.11"
+    slaProfileEnabled="false" uid="3e078b59-c3fd-41df-9cf4-43e9283d89c1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3e078b59-c3fd-41df-9cf4-43e9283d89c1.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3e078b59-c3fd-41df-9cf4-43e9283d89c1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/ext/resources/css/ext-all-custom.css"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Sun, 01 Jul 2018 05:38:17 GMT&#xd;
+Cache-Control: public, max-age=2592000&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:38:17 GMT&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 14 May 2018 07:10:45 GMT&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: image/gif;charset=UTF-8&#xd;
+Content-Length: 949</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

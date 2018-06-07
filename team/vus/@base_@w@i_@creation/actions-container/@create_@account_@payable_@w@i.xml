@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Create_Account_Payable_WI" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e7ed0857-38b4-4c52-aa16-33c905017dfa" weightsEnabled="false">
+    <weighted-embedded-action uid="3864e54d-1e62-4627-85e5-32b68ffca204"/>
+</basic-logical-action-container>

@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Export_list_to_Excel" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="c7d2e9d5-1b8f-471b-857b-bf8ab21ef769" weightsEnabled="false">
+    <weighted-embedded-action uid="1d62b3f6-c0cb-44b3-a2aa-75757ffd85ce"/>
+</basic-logical-action-container>

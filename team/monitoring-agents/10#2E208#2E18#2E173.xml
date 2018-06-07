@@ -1,0 +1,52 @@
+<me-host loadWeight="1" standalone="false" supportWANEmulation="false"
+    uid="10.208.18.173" version="6.4.0;build=20180322-20">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Broadcom 802.11n Network Adapter"
+        enabled="false" isLoopBack="false" name="wlan1">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="l-285002019.wipro.com">
+            <ip value="10.208.18.173"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:1180:840d:78a:ba19%wlan1">
+            <ip value="fe80:0:0:0:1180:840d:78a:ba19%wlan1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Realtek PCIe GBE Family Controller"
+        enabled="false" isLoopBack="false" name="eth4">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:1032:972a:c3ce:7a2d%eth4">
+            <ip value="fe80:0:0:0:1032:972a:c3ce:7a2d%eth4"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Fortinet Virtual Ethernet Adapter (NDIS 6.30)"
+        enabled="false" isLoopBack="false" name="eth3">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:8967:968d:643c:3e6d%eth3">
+            <ip value="fe80:0:0:0:8967:968d:643c:3e6d%eth3"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)"
+        enabled="false" isLoopBack="false" name="eth0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:659d:5735:65a0:1427%eth0">
+            <ip value="fe80:0:0:0:659d:5735:65a0:1427%eth0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</me-host>

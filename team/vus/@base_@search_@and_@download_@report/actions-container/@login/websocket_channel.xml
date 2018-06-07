@@ -1,0 +1,47 @@
+<websocket-channel-action actionType="1"
+    contentType="text/html;charset=UTF-8" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel"
+    path="/Base-Portalcloud/wsendpoint" postType="1"
+    pushType="WEBSOCKET" recordedResponseCode="101" responseSize="0"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="41046a87-9b19-4e46-a616-e0ae373c6419" useKeepAlive="false">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <responsePageFileDescription>recorded-responses/res_41046a87-9b19-4e46-a616-e0ae373c6419.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dfb98863-affc-4b09-8db7-d7c62bc41a64.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="keep-alive, Upgrade"/>
+    <header name="Cookie" value="JSESSIONID=On4zpUl_aqF8VAsKIJkpZJcvhC8pvZPPe6RUtTGq.basewipro"/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Origin" value="https://10.137.48.11:8443"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Sec-WebSocket-Extensions" value="permessage-deflate"/>
+    <header name="Sec-WebSocket-Key" value="d+zkWTHdMFCzkCOluZkp7g=="/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Upgrade" value="websocket"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <responseHeaders>HTTP/1.1 101 Switching Protocols&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Upgrade: WebSocket&#xd;
+Pragma: no-cache&#xd;
+Origin: https://10.137.48.11:8443&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Sec-WebSocket-Accept: XKGaCyUzte3ks2Itiv58ckBS0Qg=&#xd;
+Date: Fri, 01 Jun 2018 08:23:34 GMT&#xd;
+Connection: Upgrade&#xd;
+Sec-WebSocket-Location: wss://10.137.48.11:8443/Base-Portalcloud/wsendpoint&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <push-handler filecount="0"
+        filename="recorded-responses/websocket_4b22c557-0d5d-44e5-ad5f-759aaceb2086.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>

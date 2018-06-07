@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/gettemplateforplan.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/57224e70-e7f1-436a-9959-6315918507ca.zip"
+    slaProfileEnabled="false" thinkTime="152"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="57224e70-e7f1-436a-9959-6315918507ca">
+    <embedded-action>3eea4ab4-716b-4fc9-abc3-e2fbc2179f34</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_57224e70-e7f1-436a-9959-6315918507ca.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Base-Portalcloud/gettemplateforplan.jscript"
+    path="/Base-Portalcloud/gettemplateforplan.jscript"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@w@i_@creation/%resources%/recorded-artifacts/57224e70-e7f1-436a-9959-6315918507ca.zip"
+    recordedResponseCode="200" responseSize="11412"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="3eea4ab4-716b-4fc9-abc3-e2fbc2179f34" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[cGxhbk5hbWU9QWNjb3VudFBheWFibGUmcGxhbj00JmhpZGRlbnNlbGVjdHBsYW5NYXA9NCZoaWRkZW5xdWV1ZU5hbWU9]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_3eea4ab4-716b-4fc9-abc3-e2fbc2179f34.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3eea4ab4-716b-4fc9-abc3-e2fbc2179f34.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="planName"
+        recordRawValue="AccountPayable" separator="="
+        value="AccountPayable" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="plan"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="hiddenselectplanMap" recordRawValue="4" separator="="
+        value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="hiddenqueueName" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="templateName" recordRawValue="SelectPlanForWICreation"
+        separator="=" value="SelectPlanForWICreation" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="actionPerformed" recordRawValue="WorkItemCreationTemplate"
+        separator="=" value="WorkItemCreationTemplate" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="JSESSIONID=shYOAEteZPul6OAAx1PfZUwMn13MA54qoGoS8aAK.basewipro"/>
+    <header name="ELOR" value="O3fpVh1c7VBfaLRGxw3kuw=="/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <header name="X-CSRF-TOKEN" value="${cor_csrf_token}"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 05:36:08 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 11412</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

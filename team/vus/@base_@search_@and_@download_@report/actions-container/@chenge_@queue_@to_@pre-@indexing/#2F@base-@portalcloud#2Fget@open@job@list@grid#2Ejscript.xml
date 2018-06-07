@@ -1,0 +1,61 @@
+<http-page executeResourcesDynamically="false"
+    name="/Base-Portalcloud/getOpenJobListGrid.jscript"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@base_@search_@and_@download_@report/%resources%/recorded-artifacts/9f00b0d7-2091-48d5-b3e9-c5a4668e39ea.zip"
+    slaProfileEnabled="false" thinkTime="11098"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9f00b0d7-2091-48d5-b3e9-c5a4668e39ea">
+    <embedded-action>869a09b5-e544-462b-82d2-c554bf64c602</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6c9d7a50-b113-4b24-b7d9-1a7a308b6fb6.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/Base-Portalcloud/getOpenJobListGrid.jscript"
+    path="/Base-Portalcloud/getOpenJobListGrid.jscript"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@base_@search_@and_@download_@report/%resources%/recorded-artifacts/9f00b0d7-2091-48d5-b3e9-c5a4668e39ea.zip"
+    recordedResponseCode="200" responseSize="8961"
+    serverUid="10.137.48.11" slaProfileEnabled="false"
+    uid="869a09b5-e544-462b-82d2-c554bf64c602" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[cXVldWVuYW1lPVByZS1JbmRleGluZyUyMCZxdWV1ZUFsbG9jYXRpb25NZXRob2Q9Tw==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_79d320db-3f93-46a9-b8dc-215ec45279e8.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_79d320db-3f93-46a9-b8dc-215ec45279e8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="queuename"
+        recordRawValue="Pre-Indexing%20" separator="="
+        value="Pre-Indexing " valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="queueAllocationMethod" recordRawValue="O" separator="="
+        value="O" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="templateName" recordRawValue="AgentSharedTask"
+        separator="=" value="AgentSharedTask" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="actionPerformed" recordRawValue="viewOpenJobData"
+        separator="=" value="viewOpenJobData" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="JSESSIONID=On4zpUl_aqF8VAsKIJkpZJcvhC8pvZPPe6RUtTGq.basewipro"/>
+    <header name="ELOR" value="O3fpVh1c7VBfaLRGxw3kuw=="/>
+    <header name="Host" value="10.137.48.11:8443"/>
+    <header name="Referer" value="https://10.137.48.11:8443/Base-Portalcloud/landing.do"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:60.0) Gecko/20100101 Firefox/60.0"/>
+    <header name="X-CSRF-TOKEN" value="${cor_csrf_token}"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Expires: Thu, 01 Jan 1970 00:00:00 GMT&#xd;
+Cache-Control: no-cache&#xd;
+Pragma: no-cache&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Date: Fri, 01 Jun 2018 08:24:17 GMT&#xd;
+Connection: keep-alive&#xd;
+Strict-Transport-Security: max-age=7776000&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 8961</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

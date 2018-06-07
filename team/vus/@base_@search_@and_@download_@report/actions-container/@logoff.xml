@@ -1,0 +1,11 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Logoff" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="dd67695b-5e2f-4149-b04a-d214c3ed9670" weightsEnabled="false">
+    <weighted-embedded-action uid="6c4eed06-1ff0-4818-b3a4-4ee7395a86f1"/>
+    <weighted-embedded-action uid="34c49e52-15d1-498d-af9a-e36db1e960ba"/>
+    <weighted-embedded-action uid="bbadde83-2271-437a-9091-34b81b197cc5"/>
+    <weighted-embedded-action uid="0d6c3180-d7be-4192-be5e-d711f4231e73"/>
+    <weighted-embedded-action uid="5725bc18-7392-4b71-b6e8-218d26353d7c"/>
+    <weighted-embedded-action uid="6e5495f8-ffb4-461e-8bdf-d4f021d2f2d9"/>
+</basic-logical-action-container>
